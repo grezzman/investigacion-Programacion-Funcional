@@ -1,4 +1,4 @@
-# Qué es la programación funcional 
+# Qué es la programacion funcional 
 
 La [programación funcional](https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional) puede ayudarnos a crear software más robusto, mantenible y fácil de testear. Lenguajes de programación funcional como [Scala](http://www.scala-lang.org/),[Haskell](https://www.haskell.org/) o [Lisp](https://es.wikipedia.org/wiki/Lisp),  [Java](https://www.java.com/) en su versión 8 permite usar la potencia de la programación funcional sin abandonar su [orientación a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos).
 
